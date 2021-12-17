@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @laczi-ostr known as Pawel Zielinski
 - 👀 I’m interested in technology world and any aspekt assosieted with it.
-- 🌱 I’m currently learning Python and CCNA 
+- 🌱 I’m currently learning Python and CCNA HTML
 - 💞️ I’m looking to collaborate on not shure yet 
 - 📫 How to reach me ... best by email laczi.ostr@gmail.com
 
